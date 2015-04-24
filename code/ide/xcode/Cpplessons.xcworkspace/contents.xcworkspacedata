@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:L04-&#x6784;&#x9020;&#x65b9;&#x6cd5;&#x548c;&#x6790;&#x6784;&#x65b9;&#x6cd5;/L04-&#x6784;&#x9020;&#x65b9;&#x6cd5;&#x548c;&#x6790;&#x6784;&#x65b9;&#x6cd5;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L02-C++/L02-C++.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L03-C++/L03-C++.xcodeproj">
+   </FileRef>
 </Workspace>
